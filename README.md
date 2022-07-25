@@ -1,4 +1,4 @@
-### &gt; Hi there 👋
+### &gt; - Hi there 👋
 <h3 align="center">
         <samp>&gt; Hello World!, I'am
                 <b>「<a target="_blank" href="#">Dicki Darmawan Saputra</a>」</b>
