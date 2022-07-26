@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://tenor.com/brXT6.gif" height="300"/>
+  <img src="https://tenor.com/view/programmer-gif-19019116" height="300"/>
 </p>
 
 <br/>
