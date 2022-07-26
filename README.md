@@ -13,7 +13,7 @@
 <br/>
 
 ### Connect With Me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dickidarmawansaputra/)&ensp;[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dickidarmawansaputra.github.io/)&ensp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dickidarmawansaputra@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dickidarmawansaputra/)&ensp;[![Portfolio](https://img.shields.io/badge/website-d3d3d3?style=for-the-badge&logo=About.me&logoColor=white)](https://dickidarmawansaputra.github.io/)&ensp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dickidarmawansaputra@gmail.com)
 
 
 Here are some of my experiences:
