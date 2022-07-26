@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://i.gifer.com/6M8G.gif"/>
+  <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
 </p>
 
 <br/>
