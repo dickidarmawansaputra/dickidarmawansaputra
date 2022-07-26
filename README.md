@@ -1,10 +1,19 @@
-### &gt; Hi there 👋
 <h3 align="center">
-        <samp>&gt; Hello World!, I'am
+        <samp>&gt; Hi, I'am
                 <b>「<a target="_blank" href="#">Dicki Darmawan Saputra</a>」</b>
                 👋
         </samp>
 </h3>
+<br/>
+
+<p align="center">
+  <img src="/images/programmer2.gif" height="300"/>
+</p>
+
+<br/>
+
+### Connect With Me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dickidarmawansaputra/)&ensp;[![Portfolio](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dickidarmawansaputra.github.io/)
 
 <!--
 **dickidarmawansaputra/dickidarmawansaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
