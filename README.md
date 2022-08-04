@@ -1,10 +1,8 @@
 <h3 align="center">
         <samp>&gt; Hi 👋, I'am
-                [Dicki Darmawan Saputra](https://github.com/dickidarmawansaputra)
+                <b>「<a target="_blank" href="#">Dicki Darmawan Saputra</a>」</b>
         </samp>
 </h3>
-[Dicki Darmawan Saputra](https://github.com/dickidarmawansaputra)
-[Whole team](https://github.com/)
 <br/>
 
 <p align="center">
