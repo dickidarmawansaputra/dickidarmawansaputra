@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hi 👋, I'am
-                <b><a target="_blank" href="#">Dicki Darmawan Saputra</a></b>
+                [Dicki Darmawan Saputra](https://github.com/dickidarmawansaputra)
         </samp>
 </h3>
 <br/>
