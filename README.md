@@ -3,6 +3,7 @@
                 [Dicki Darmawan Saputra](https://github.com/dickidarmawansaputra)
         </samp>
 </h3>
+[Dicki Darmawan Saputra](https://github.com/dickidarmawansaputra)
 <br/>
 
 <p align="center">
