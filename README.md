@@ -11,7 +11,7 @@
 
 <br/>
 
-### Connect With Me
+### Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dickidarmawansaputra/)&ensp;[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dickidarmawansaputra.github.io/)&ensp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dickidarmawansaputra@gmail.com)
 
 
