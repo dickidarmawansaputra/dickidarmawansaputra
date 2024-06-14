@@ -17,7 +17,7 @@
 
 Here are some of my experiences:
 
-- 👨‍💻 Junior Backend Engineer at Gak Gendut Lagi [Feb 2024 - Present]
+- 👨‍💻 Junior Backend Engineer at Gak Gendut Lagi (GGL) [Feb 2024 - Present]
 - 👨‍💻 Backend Developer at RevivaLTV [Nov 2021 - Jun 2022]
 - 👨‍💻 Backend Developer at Oxxo Creative Digital Agency [May 2020 - Jul 2021]
 - 👨‍💻 Software Engineer at Idekite Indonesia [Nov 2017 - Jan 2019]
