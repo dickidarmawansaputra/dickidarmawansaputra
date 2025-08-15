@@ -21,6 +21,7 @@
 
 Here are some of my experiences:
 
+- 👨‍💻 Backend Developer at Coconut Lab [Jun 2025 - Present]
 - 👨‍💻 Backend Engineer at Gak Gendut Lagi (GGL) [Feb 2024 - August 2024]
 - 👨‍💻 Backend Developer at RevivaLTV [Nov 2021 - Jun 2022]
 - 👨‍💻 Backend Developer at Oxxo Creative Digital Agency [May 2020 - Jul 2021]
